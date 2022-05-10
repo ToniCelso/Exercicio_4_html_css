@@ -1,0 +1,16 @@
+*{
+    background-color: #fafad2 ;
+}
+h1{
+    background-color: #daa520;
+    color: #820501;
+}
+h2{
+    color: #820501;
+}
+p{
+    text-align: justify;
+}
+.p1{
+    float: right;
+}

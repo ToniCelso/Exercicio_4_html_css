@@ -1,0 +1,42 @@
+*{
+    background-color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    background-color: rgb(94, 128, 186);
+    border-radius: 20px;
+    text-align: center;
+}
+
+p , li{
+    text-align: justify;
+}
+
+div img{
+    width : 150px;   
+    /*height : 100px;*/
+    float: left;
+
+}
+
+.blk1{
+flex-direction: column;
+width: 100%;
+
+}
+
+
+.blk2{
+    flex-direction:row ;
+    display: flex;
+  
+     
+}
+
+div{
+    margin: 10px;
+}
+.tabb{
+    text-indent: 20px;
+}

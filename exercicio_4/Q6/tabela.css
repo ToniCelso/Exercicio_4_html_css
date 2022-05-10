@@ -1,0 +1,81 @@
+*{
+    background-color: #fcfcfc;
+}
+.corSim{
+    background-color: #aeb7d666;
+
+}
+
+.L1{
+    border-top: 1px;
+    border-bottom: 1px;
+    border-style: solid;
+}
+td{
+    border-top-width: 0;
+    border-bottom-width: 1pt;
+    border-style: solid;
+    border-right-width: 0;
+    border-left-width: 0;
+    border-color: #aeb7d6;
+    text-align: center;
+    width: 35px;
+    font-family: Verdana;
+}
+.clas{
+    text-align: left;
+    width: 200px;
+    height: 35px;
+}
+.pontos{
+    font-weight: 600;
+    border-left-width: 1pt;
+    background-color: #aeb7d666;
+
+
+}
+th{
+    border-top-width: 1pt;
+    border-bottom-width: 1pt;
+    border-style: solid;
+    border-right-width: 0;
+    border-left-width: 0;
+    border-color: #aeb7d6;
+    text-align: center;
+    width: 35px;
+    font-family: Verdana;
+    font-weight: 50;
+    font-size: 8pt;
+}
+.bord{
+    border-left-width: 1pt;
+}
+.cor1{
+    color: blue;
+    font-size: larger;
+}
+.cor2{
+    color: aqua;
+    font-size: larger;
+}
+.cor3{
+    color: darkgreen;
+    font-size: larger;
+}
+.cor4{
+    color: darkgrey;
+    font-size: larger;
+}
+.cor5{
+    color: red;
+    font-size: larger;
+}
+.seta{
+    width: 40px;
+}
+img{
+    width: 10px;    
+}
+.quadr{
+    width: 8px;
+}
